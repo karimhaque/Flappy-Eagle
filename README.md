@@ -1,5 +1,4 @@
 # Flappy-Eagle
-IS1500 Mini Project
 Karim Haque & Lukas Nyström
 
 Run:
